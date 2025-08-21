@@ -40,6 +40,10 @@ Ask questions and get answers entirely offline on your own computer.
     python chat_phi2.py
     ```
 
+    ## Example Prompt & Answer
+
+![Prompt and Answer](https://github.com/Morshedur2129/-LLM-Phi-2-Q4-GGUF-model.-/blob/main/prompt%20and%20answer%20.jpg?raw=true)
+
 ---
 
 ## Usage
